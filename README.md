@@ -3,6 +3,10 @@
 * Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
 * [About me](https://about.me/reverentgeek) | [reverentgeek.com](http://reverentgeek.com) | Twitter: [@reverentgeek](https://twitter.com/reverentgeek)
 
+## Recording of this Presentation
+
+* [Nodevember 2016](https://youtu.be/aPSvHT9USO8)
+
 ## Recommended Books
 
 * ["Show and Tell"](https://www.amazon.com/Show-Tell-Everybody-Extraordinary-Presentations/dp/1591848024) by Dan Roam
