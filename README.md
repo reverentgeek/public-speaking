@@ -7,6 +7,10 @@
 
 * [Nodevember 2016](https://youtu.be/aPSvHT9USO8)
 
+## My Articles
+
+* [Captivate Your Audience Using Simple Illustrations](https://medium.com/@reverentgeek/captivate-your-audience-using-simple-illustrations-5bf0fcd0e301)
+
 ## Recommended Books
 
 * "[Show and Tell](https://www.amazon.com/Show-Tell-Everybody-Extraordinary-Presentations/dp/1591848024)" by Dan Roam
@@ -17,12 +21,12 @@
 
 ## Recommended Articles
 
-* [Sara Ford: What if they start laughing at me? 10 fears I face as a public speaker](https://medium.com/@saraford/what-if-they-start-laughing-at-me-10-fears-i-face-as-a-public-speaker-83fe18de7b39#.z7114xz9h)
-* [Cory House: Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)
-* [Scott Berkun: How to Prepare: a Checklist for Great Talks](http://scottberkun.com/2011/speakers-checklist/)
-* [Jeremy Clark: Meet the next Code Camp Speaker: You!](http://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)
-* [Jeremy Clark: You Aren't Instantly Awesome, But You Can Get Better with Practice](https://jeremybytes.blogspot.com/2015/10/you-arent-instantly-awesome-but-you-can.html)
-* [Tobias van Schneider: The best advice I can give on public speaking](https://medium.com/desk-of-van-schneider/my-best-advice-i-can-give-about-public-speaking-61c6fab92192#.jcy8hf7wo)
-* [Troy Hunt: How I prepared for the NDC keynote (and other speaker tips)](https://www.troyhunt.com/how-i-prepared-for-the-ndc-keynote-and-other-speaker-tips/)
-* [Troy Hunt: Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation/)
-* [Derek Sivers: Notes on "Confessions of a Public Speaker"](https://sivers.org/book/ConfessionsPublicSpeaker)
+* [What if they start laughing at me? 10 fears I face as a public speaker](https://medium.com/@saraford/what-if-they-start-laughing-at-me-10-fears-i-face-as-a-public-speaker-83fe18de7b39#.z7114xz9h) by Sara Ford
+* [Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit) by Cory House
+* [How to Prepare: a Checklist for Great Talks](http://scottberkun.com/2011/speakers-checklist/) by Scott Berkun
+* [Meet the next Code Camp Speaker: You!](http://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html) by Jeremy Clark
+* [You Aren't Instantly Awesome, But You Can Get Better with Practice](https://jeremybytes.blogspot.com/2015/10/you-arent-instantly-awesome-but-you-can.html) by Jeremy Clark
+* [The best advice I can give on public speaking](https://medium.com/desk-of-van-schneider/my-best-advice-i-can-give-about-public-speaking-61c6fab92192#.jcy8hf7wo) by Tobias van Schneider
+* [How I prepared for the NDC keynote (and other speaker tips)](https://www.troyhunt.com/how-i-prepared-for-the-ndc-keynote-and-other-speaker-tips/) by Troy Hunt
+* [Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation/) by Troy Hunt
+* [Notes on "Confessions of a Public Speaker"](https://sivers.org/book/ConfessionsPublicSpeaker) by Derek Sivers
