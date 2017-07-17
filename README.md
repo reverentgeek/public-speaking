@@ -9,10 +9,11 @@
 
 ## Recommended Books
 
-* ["Show and Tell"](https://www.amazon.com/Show-Tell-Everybody-Extraordinary-Presentations/dp/1591848024) by Dan Roam
-* ["Ted Talks: The Official TED Guide to Public Speaking"](https://www.amazon.com/TED-Talks-Official-Public-Speaking/dp/0544634497) by Chris Anderson
-* ["Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker"](https://www.amazon.com/Do-You-Talk-Funny-Funnier/dp/1942952279) by David Nihill
-* ["Confessions of a Public Speaker"](https://www.amazon.com/Confessions-Public-Speaker-Scott-Berkun-ebook/dp/B002VL1CGM) by Scott Berkun
+* "[Show and Tell](https://www.amazon.com/Show-Tell-Everybody-Extraordinary-Presentations/dp/1591848024)" by Dan Roam
+* "[Ted Talks: The Official TED Guide to Public Speaking](https://www.amazon.com/TED-Talks-Official-Public-Speaking/dp/0544634497)" by Chris Anderson
+* "[Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker](https://www.amazon.com/Do-You-Talk-Funny-Funnier/dp/1942952279)" by David Nihill
+* "[Confessions of a Public Speaker](https://www.amazon.com/Confessions-Public-Speaker-Scott-Berkun-ebook/dp/B002VL1CGM)" by Scott Berkun
+* "[The Storyteller's Spellbook](https://www.amazon.com/Storytellers-Spellbook-compelling-career-magical-ebook/dp/B073Q5X4BX/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1500314737&sr=1-3&keywords=james+whittaker): How to make your ideas more compelling and your career more magical" by James Whittaker
 
 ## Recommended Articles
 
