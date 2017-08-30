@@ -30,3 +30,10 @@
 * [How I prepared for the NDC keynote (and other speaker tips)](https://www.troyhunt.com/how-i-prepared-for-the-ndc-keynote-and-other-speaker-tips/) by Troy Hunt
 * [Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation/) by Troy Hunt
 * [Notes on "Confessions of a Public Speaker"](https://sivers.org/book/ConfessionsPublicSpeaker) by Derek Sivers
+
+## Toastmasters
+
+Find your local [Toastmasters](https://www.toastmasters.org/) club!
+
+> Do you want to become a confident public speaker and strong leader? If so, Toastmasters is the place for you. You’ll find a supportive learn-by-doing environment that allows you to achieve your goals at your own pace.
+
