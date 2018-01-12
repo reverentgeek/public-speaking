@@ -10,6 +10,8 @@
 ## My Articles
 
 * [Captivate Your Audience Using Simple Illustrations](https://medium.com/@reverentgeek/captivate-your-audience-using-simple-illustrations-5bf0fcd0e301)
+* [5 Essential Ingredients for an Awesome Tech Talk](https://medium.com/@reverentgeek/5-essential-ingredients-for-an-awesome-tech-talk-2e5778b2cb5a)
+* [Please, Give Public Speaking a Try](https://medium.com/@reverentgeek/please-give-public-speaking-a-try-c90c539012d5)
 
 ## Recommended Books
 
