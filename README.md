@@ -24,7 +24,7 @@
 ## Recommended Articles
 
 * [What if they start laughing at me? 10 fears I face as a public speaker](https://medium.com/@saraford/what-if-they-start-laughing-at-me-10-fears-i-face-as-a-public-speaker-83fe18de7b39#.z7114xz9h) by Sara Ford
-* [Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit) by Cory House
+* [Speaker Starter Kit](https://github.com/coryhouse/speaker-starter-kit) by Cory House
 * [How to Prepare: a Checklist for Great Talks](http://scottberkun.com/2011/speakers-checklist/) by Scott Berkun
 * [Meet the next Code Camp Speaker: You!](http://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html) by Jeremy Clark
 * [You Aren't Instantly Awesome, But You Can Get Better with Practice](https://jeremybytes.blogspot.com/2015/10/you-arent-instantly-awesome-but-you-can.html) by Jeremy Clark
